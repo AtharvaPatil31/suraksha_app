@@ -1,16 +1,59 @@
-# suraksha_app
+# 🛡️ Surahsha
 
-A new Flutter project.
+Surahsha is a community–driven civic issue reporting platform that enables citizens to quickly report problems such as potholes, garbage dumps, broken street lights, water leakages, etc. The goal is to build safer, cleaner and more accountable cities through transparency and collective action.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## 🚀 Purpose
 
-A few resources to get you started if this is your first Flutter project:
+Surahsha empowers citizens to:
+- Report issues instantly with photos & location
+- Track issues raised by themselves or others
+- Encourage authorities to respond faster
+- Improve community involvement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 📍 Pinpoint location tagging (GPS / manual)
+- 🖼 Upload images with the issue
+- 📝 Rich issue descriptions
+- 📰 Real-time issue feed (latest at top)
+- 👤 User Profile & authentication
+- 🔐 OTP-based login system (in progress)
+- 🗃 Cloud database with persistent storage
+
+<br>
+
+## 🛠 Tech Stack
+
+**Mobile Framework**
+- Flutter
+- Dart
+
+**Backend**
+- Supabase (DB + Auth)
+- Firebase OTP (upcoming)
+
+**Other Services**
+- Geolocation
+- Image picker
+- Maps API (planned)
+
+<br>
+
+## 📷 Screenshots
+
+(Add in your project → `/screenshots` folder)
+
+| Home | Add Issue | Profile |
+|------|-----------|---------|
+| ![](screenshots/home.png) | ![](screenshots/add_issue.png) | ![](screenshots/profile.png) |
+
+<br>
+
+## 🎥 Demo Video
+
+(Add link here after upload)
+
