@@ -1,59 +1,67 @@
-# 🛡️ Surahsha
+# 🛡️ Surahsha — Women Safety App
 
-Surahsha is a community–driven civic issue reporting platform that enables citizens to quickly report problems such as potholes, garbage dumps, broken street lights, water leakages, etc. The goal is to build safer, cleaner and more accountable cities through transparency and collective action.
+Surahsha is a Women Safety application built using Flutter, designed to provide emergency support, location tracking, and instant communication during unsafe situations. The goal is to help women feel safer by giving them a fast, reliable tool in critical moments.
 
 <br>
 
-## 🚀 Purpose
+## 🌍 Mission
 
-Surahsha empowers citizens to:
-- Report issues instantly with photos & location
-- Track issues raised by themselves or others
-- Encourage authorities to respond faster
-- Improve community involvement
+To empower women with technology that:
+- Keeps them safer
+- Enables quick emergency help
+- Connects them with trusted contacts instantly
+- Helps them stay aware in vulnerable situations
 
 <br>
 
 ## ✨ Features
 
-- 📍 Pinpoint location tagging (GPS / manual)
-- 🖼 Upload images with the issue
-- 📝 Rich issue descriptions
-- 📰 Real-time issue feed (latest at top)
-- 👤 User Profile & authentication
-- 🔐 OTP-based login system (in progress)
-- 🗃 Cloud database with persistent storage
+- 🚨 **Emergency SOS Trigger**
+- 📍 **Live Location Sharing**
+- ⚠️ **Emergency Contacts**
+- 🔊 **Loud Alert / Siren Button**
+- 🛣️ **Route Tracking**
+- 🗺️ **Safety Map Zones**
+- 📝 **Report Unsafe Area**
+- 👤 **User Profile**
+- 🔐 **Secure authentication**
+- ☁️ **Cloud-based data storage**
+
+*(Note: Add/remove features based on your real app)*
 
 <br>
 
 ## 🛠 Tech Stack
 
-**Mobile Framework**
+**Framework**
 - Flutter
 - Dart
 
 **Backend**
-- Supabase (DB + Auth)
-- Firebase OTP (upcoming)
+- Supabase
+  OR
+- Firebase   
+(whichever you’re using)
 
-**Other Services**
-- Geolocation
-- Image picker
-- Maps API (planned)
+**Services**
+- GeoLocator
+- Background location
+- SMS / WhatsApp API (planned)
+- Push notifications (planned)
 
 <br>
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-(Add in your project → `/screenshots` folder)
+(Add your UI screenshots to `/screenshots` directory)
 
-| Home | Add Issue | Profile |
-|------|-----------|---------|
-| ![](screenshots/home.png) | ![](screenshots/add_issue.png) | ![](screenshots/profile.png) |
+| Home | SOS | Live Tracking |
+|------|-----|---------------|
+| ![](screenshots/home.png) | ![](screenshots/sos.png) | ![](screenshots/live.png) |
 
 <br>
 
 ## 🎥 Demo Video
 
-(Add link here after upload)
+(Add when ready)
 
